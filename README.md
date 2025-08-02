@@ -35,7 +35,7 @@ where:
 
 ##### Ridge Regression with the Diabetes Dataset
 - Suppose you want to use Ridge regression on the diabetes dataset (available in scikit-learn). Here’s an outline of the code and the intuition behind each step:
-
+https://github.com/prajwalghotkar/Ridge-Regularization/blob/main/Ridge%20Regularization.ipynb
 ##### Code Intuition
 - Data splitting is done to test how well our model generalizes to unseen data.
 - Ridge Regularization (with alpha=1.0) adds a penalty to the loss function for large coefficients, shrinking them and thus controlling model complexity.
