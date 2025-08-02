@@ -15,8 +15,8 @@
 ![prajwal_data](https://github.com/user-attachments/assets/63725e60-3664-412b-bc87-9da74b497b03)
 
 - Loss=MSE+λj=1∑pwj2
-where:
 
+where:
 - MSE is the mean squared error,
 - wj are the model coefficients (weights),
 - λ is the regularization parameter controlling the strength of the penalty.
