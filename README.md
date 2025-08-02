@@ -1,1 +1,1 @@
-# Ridge-Regularization
+# Ridge Regularization
