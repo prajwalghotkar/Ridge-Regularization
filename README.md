@@ -50,4 +50,4 @@ https://github.com/prajwalghotkar/Ridge-Regularization/blob/main/Ridge%20Regular
 
 ![WhatsApp Image 2025-08-02 at 15 21 25_0c5c2158](https://github.com/user-attachments/assets/926c1afa-5abc-405e-ba25-7d0f453ac143)
 ![WhatsApp Image 2025-08-02 at 15 21 25_485b6151](https://github.com/user-attachments/assets/2405a1e6-1c41-43fd-8c84-a5a074e89a0a)
-
+https://github.com/prajwalghotkar/Ridge-Regularization/blob/main/Ridge_Regression_From_Scratch.ipynb
