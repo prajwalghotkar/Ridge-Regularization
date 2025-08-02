@@ -6,6 +6,11 @@
 - There are three main types of regularization commonly used in linear regression:
 
 ##### 1. Ridge Regularization (L2 Regularization)
+##### 2. Lasso Regularization (L1 Regularization)
+##### 3. Elastic Net Regularization
+--- 
+
+##### 1. Ridge Regularization (L2 Regularization)
 - Ridge regularization adds a penalty equivalent to the square of the magnitude of coefficients to the loss function. Mathematically, the loss function becomes:
 ![prajwal_data](https://github.com/user-attachments/assets/63725e60-3664-412b-bc87-9da74b497b03)
 
